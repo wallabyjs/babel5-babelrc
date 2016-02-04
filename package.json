@@ -1,0 +1,22 @@
+{
+  "name": "babel5-babelrc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wallaby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/babel5-babelrc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/babel5-babelrc/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/babel5-babelrc#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.35"
+  }
+}
